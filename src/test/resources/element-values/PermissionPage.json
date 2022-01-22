@@ -1,0 +1,41 @@
+[
+  {
+    "key": "PermissionPage_ContinueButton",
+    "androidValue": "com.android.permissioncontroller:id/continue_button",
+    "androidType": "id",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "PopupButton_OK",
+    "androidValue": "android:id/button1",
+    "androidType": "id",
+    "iosValue": "",
+    "iosType": ""
+  }
+
+]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

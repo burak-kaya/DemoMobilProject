@@ -1,0 +1,9 @@
+{
+  "Language": "java",
+  "Plugins": [
+    "xml-report",
+    "html-report",
+    "screenshot"
+  ],
+  "EnvironmentDir": ""
+}

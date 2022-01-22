@@ -1,0 +1,31 @@
+# Register butonuna tıklanır ve kullanıcı kayıt oluşturma sayfasının açıldığı kontrol edilir
+* "HomePage_RegisterButton" li elementi bul ve tıkla
+* "3" saniye bekle
+* Verilen "500" "1900" koordinatına tıkla
+* Textinde "Welcome to register a new User" geçen element var mı
+
+# Throw Exception butonuna tıklanır
+* "HomePage_PressThrowExceptionButton" li elementi bul ve tıkla
+
+# Uygulamanın crash olduğu görülür ve popup kapatılır
+* "text" değerinde "selendroid-test-app keeps stopping" geçen element var mı kontrol edilir
+* "Alert_CloseApp" li elementi bul ve tıkla
+* Textinde "selendroid-test-app keeps stopping" geçen elementin olmadığını kontrol et
+
+# Uygulamayı sonlandırmak için END butonuna basılır ve ilgili popup var mı kontrol edilir
+* "HomePage_ApplicationENDButton" li elementi bul ve tıkla
+* "text" değeri "This will end the activity" olan element var mı kontrol edilir
+
+# Uygulama kapatmak için çıkan popupta ok butonuna basılır ve uygulamanın kapandığı görülür
+* "AppClosePopupOK" li elementi bul ve tıkla
+* Textinde "Welcome to register a new User" geçen elementin olmadığını kontrol et
+
+# Touch Actions butonuna tıklanır ve ilgili sayfanın açıldığı kontrol edilir
+* "HomePage_TouchActionsButton" li elementi bul ve tıkla
+* "TouchActions_LastGestureLabel" li element var mı
+
+# Chrome butonuna tıklanır ve ilgili sayfanın açıldığı kontrol edilir
+* "HomePage_ChromeButton" li elementi bul ve tıkla
+* Textinde "Web View Interaction" geçen element var mı
+
+

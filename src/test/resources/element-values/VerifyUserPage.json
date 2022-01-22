@@ -1,0 +1,77 @@
+[
+  {
+    "key": "VerifyUserPage_NameDataLabel",
+    "androidValue": "io.selendroid.testapp:id/label_name_data",
+    "androidType": "id",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "VerifyUserPage_UsernameDataLabel",
+    "androidValue": "io.selendroid.testapp:id/label_username_data",
+    "androidType": "id",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "VerifyUserPage_PasswordDataLabel",
+    "androidValue": "io.selendroid.testapp:id/label_password_data",
+    "androidType": "id",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "VerifyUserPage_EmailDataLabel",
+    "androidValue": "io.selendroid.testapp:id/label_email_data",
+    "androidType": "id",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "VerifyUserPage_ProgrammingLanguageDataLabel",
+    "androidValue": "io.selendroid.testapp:id/label_preferedProgrammingLanguage_data",
+    "androidType": "id",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "VerifyUserPage_IAcceptAddsDataLabel",
+    "androidValue": "io.selendroid.testapp:id/label_acceptAdds_data",
+    "androidType": "id",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "VerifyUserPage_RegisterUserButton",
+    "androidValue": "io.selendroid.testapp:id/buttonRegisterUser",
+    "androidType": "id",
+    "iosValue": "",
+    "iosType": ""
+  }
+]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

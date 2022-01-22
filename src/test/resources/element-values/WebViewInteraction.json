@@ -1,0 +1,72 @@
+[
+  {
+    "key": "WebviewInteraction_ActionSelectButton",
+    "androidValue": "io.selendroid.testapp:id/spinner_webdriver_test_data",
+    "androidType": "id",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "WebviewInteraction_SayHelloAction_NameInput",
+    "androidValue": "//*[@resource-id='name_input']",
+    "androidType": "xpath",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "WebviewInteraction_SayHelloAction_SelectCarButton",
+    "androidValue": "//*[@text='Prefered Car:']/following-sibling::*[2]",
+    "androidType": "xpath",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "WebviewInteraction_SendMeYourNameButton",
+    "androidValue": "//*[@text='Send me your name!']",
+    "androidType": "xpath",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "WebviewInteraction_RequestLocation",
+    "androidValue": "io.selendroid.testapp:id/webviewLocation",
+    "androidType": "id",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "WebviewInteraction_AutoFillDataSetPicker",
+    "androidValue": "android:id/autofill_dataset_picker",
+    "androidType": "id",
+    "iosValue": "",
+    "iosType": ""
+  }
+]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

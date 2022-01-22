@@ -1,0 +1,14 @@
+# Kullanıcı doğrulama sayfasının açıldığı kontrol edilir
+* Textinde "Verify user" geçen element var mı
+
+# Kullanıcı doğrulama sayfasındaki verilerin, kullanıcının girdiği verilerle aynı olduğu kontrol edilir
+* "VerifyUserPage_NameDataLabel" elementinin "text" değeri "name" değişkenindeki değer ile aynı mı
+* "VerifyUserPage_UsernameDataLabel" elementinin "text" değeri "userName" değişkenindeki değer ile aynı mı
+* "VerifyUserPage_PasswordDataLabel" elementinin "text" değeri "password" değişkenindeki değer ile aynı mı
+* "VerifyUserPage_EmailDataLabel" elementinin "text" değeri "email" değişkenindeki değer ile aynı mı
+* "VerifyUserPage_ProgrammingLanguageDataLabel" elementinin "text" değeri "selectedProgramingLanguage" değişkenindeki değer ile aynı mı
+* "VerifyUserPage_IAcceptAddsDataLabel" elementi "true" değerini içeriyor mu kontrol et
+
+# Kullanıcıyı Kaydet butonuna basılır ve uygulama anasayfasına dönüldüğü kontrol edilir
+* "VerifyUserPage_RegisterUserButton" li elementi bul ve tıkla
+* "App_Title" li element var mı

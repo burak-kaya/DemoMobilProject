@@ -1,0 +1,32 @@
+
+# Kullanıcı adı alanına <text> verisi yazılır
+* "RegisterPage_UserName" li elementi bul ve <text> değerini yaz
+
+# Email alanına <text> verisi yazılır
+* "RegisterPage_Email" li elementi bul ve <text> değerini yaz
+
+# Password alanına <text> verisi yazılır
+* "RegisterPage_Password" li elementi bul ve <text> değerini yaz
+
+# İsim alanı temizlenir ve <text> verisi yazılır
+* "RegisterPage_Name" li elementi bul, temizle ve <text> değerini yaz
+
+# Programlama dili listesinden rastgele bir dil seçilir ve değeri tutulur
+* "RegisterPage_ProgrammingLanguageButton" li elementi bul ve tıkla
+* "RegisterPage_ProgrammingLanguageItems" listesinden random bir elemente tıkla
+* "RegisterPage_Selected_PL" elementinin "text" değerini, "selectedProgramingLanguage" değişkeni olarak kaydet
+
+# Reklamları kabul ediyorum butonuna tıklanıp işaretlendiği kontrol edilir
+* "RegisterPage_IAcceptAddsCheckbox" elementinin "checked" değeri "false" değerini içeriyor mu
+* "RegisterPage_IAcceptAddsCheckbox" li elementi bul ve tıkla
+* "3" saniye bekle
+* Verilen "500" "1900" koordinatına tıkla
+* "RegisterPage_IAcceptAddsCheckbox" elementinin "checked" değeri "true" değerini içeriyor mu
+
+# Kayıt ol butonuna tıklanır
+* "3" saniye bekle
+* Verilen "500" "1900" koordinatına tıkla
+* "RegisterPage_UserRegisterButton" li elementi bul ve tıkla
+
+# İsim, kullanıcıadı, şifre, ve email alanları, ilgili csv içerisinden rastgele doldurulur ve tutulur
+* "userList.csv" isimli dosyadan bir kayıt ile kullanıcı kayıt sayfası verileri doldurulur ve tutulur

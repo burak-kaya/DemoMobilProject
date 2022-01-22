@@ -1,0 +1,6 @@
+
+# TouchActions alanına tıklanır
+* "TouchActions_ActionArea" li elementi bul ve tıkla
+
+# TouchActions ekranında <text> yazdığı kontrol edilir
+* "TouchActions_ActionReviewLabel" elementi <text> değerini içeriyor mu kontrol et

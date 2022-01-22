@@ -1,0 +1,90 @@
+[
+  {
+    "key": "RegisterPage_UserName",
+    "androidValue": "io.selendroid.testapp:id/inputUsername",
+    "androidType": "id",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "RegisterPage_Email",
+    "androidValue": "io.selendroid.testapp:id/inputEmail",
+    "androidType": "id",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "RegisterPage_Password",
+    "androidValue": "io.selendroid.testapp:id/inputPassword",
+    "androidType": "id",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "RegisterPage_Name",
+    "androidValue": "io.selendroid.testapp:id/inputName",
+    "androidType": "id",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "RegisterPage_ProgrammingLanguageButton",
+    "androidValue": "io.selendroid.testapp:id/input_preferedProgrammingLanguage",
+    "androidType": "id",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "RegisterPage_Selected_PL",
+    "androidValue": "//*[@resource-id='io.selendroid.testapp:id/input_preferedProgrammingLanguage']/android.widget.TextView",
+    "androidType": "xpath",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "RegisterPage_ProgrammingLanguageItems",
+    "androidValue": "//*[@resource-id='android:id/select_dialog_listview']//*[@resource-id='android:id/text1']",
+    "androidType": "xpath",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "RegisterPage_IAcceptAddsCheckbox",
+    "androidValue": "io.selendroid.testapp:id/input_adds",
+    "androidType": "id",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "RegisterPage_UserRegisterButton",
+    "androidValue": "io.selendroid.testapp:id/btnRegisterUser",
+    "androidType": "id",
+    "iosValue": "",
+    "iosType": ""
+  }
+]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

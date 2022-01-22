@@ -1,0 +1,62 @@
+[
+  {
+    "key": "HomePage_RegisterButton",
+    "androidValue": "io.selendroid.testapp:id/startUserRegistration",
+    "androidType": "id",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "HomePage_PressThrowExceptionButton",
+    "androidValue": "io.selendroid.testapp:id/exceptionTestButton",
+    "androidType": "id",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "HomePage_ApplicationENDButton",
+    "androidValue": "io.selendroid.testapp:id/buttonTest",
+    "androidType": "id",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "HomePage_TouchActionsButton",
+    "androidValue": "io.selendroid.testapp:id/touchTest",
+    "androidType": "id",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "HomePage_ChromeButton",
+    "androidValue": "io.selendroid.testapp:id/buttonStartWebview",
+    "androidType": "id",
+    "iosValue": "",
+    "iosType": ""
+  }
+]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

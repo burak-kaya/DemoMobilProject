@@ -1,0 +1,22 @@
+# Aksiyon listesi dropdownuna tıklanır
+* "WebviewInteraction_ActionSelectButton" li elementi bul ve tıkla
+
+# Aksiyon listesinden <text> aksiyonu seçilir
+* "text" değerinde <text> geçen elementi bul ve tıkla
+
+# Enter your name here alanı temizlenir ve <text> yazılır
+* "WebviewInteraction_SayHelloAction_NameInput" li elementi bul, temizle ve <text> değerini yaz
+* "3" saniye bekle
+* Verilen "550" "1500" koordinatına tıkla
+
+# Araba markası seçmek için dropdown açılır
+* "WebviewInteraction_SayHelloAction_SelectCarButton" li elementi bul ve tıkla
+
+# Markası adı <text> olan seçenek işaretlenir
+* "text" değerinde <text> geçen elementi bul ve tıkla
+
+# Send me your name butonuna tıklanır
+* "WebviewInteraction_SendMeYourNameButton" li elementi bul ve tıkla
+
+# Atılan requestin formatının <text> şeklinde olduğu kontrol edilir
+* "WebviewInteraction_RequestLocation" elementi <text> değerini içeriyor mu kontrol et

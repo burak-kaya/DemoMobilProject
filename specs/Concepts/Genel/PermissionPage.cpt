@@ -1,0 +1,4 @@
+# Permission sayfası geçilip uygulamanın açıldığı görülür
+* "PermissionPage_ContinueButton" li elementi bul ve tıkla
+* "PopupButton_OK" li elementi bul ve tıkla
+* "App_Title" li element var mı

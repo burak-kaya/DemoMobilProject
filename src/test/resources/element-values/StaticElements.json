@@ -1,0 +1,76 @@
+[
+  {
+    "key": "App_Title",
+    "androidValue": "android:id/title",
+    "androidType": "id",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "Alert_Title",
+    "androidValue": "android:id/alertTitle",
+    "androidType": "id",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "Alert_AppInfo",
+    "androidValue": "android:id/aerr_app_info",
+    "androidType": "id",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "Alert_CloseApp",
+    "androidValue": "android:id/aerr_close",
+    "androidType": "id",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "AppClosePopupOK",
+    "androidValue": "android:id/button1",
+    "androidType": "id",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "AppClosePopupNO",
+    "androidValue": "android:id/button2",
+    "androidType": "id",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "AppClosePopupTitle",
+    "androidValue": "android:id/message",
+    "androidType": "id",
+    "iosValue": "",
+    "iosType": ""
+  }
+]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

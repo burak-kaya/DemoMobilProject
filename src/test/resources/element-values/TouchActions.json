@@ -1,0 +1,48 @@
+[
+  {
+    "key": "TouchActions_ActionArea",
+    "androidValue": "io.selendroid.testapp:id/LinearLayout1",
+    "androidType": "id",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "TouchActions_ActionReviewLabel",
+    "androidValue": "io.selendroid.testapp:id/gesture_type_text_view",
+    "androidType": "id",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "TouchActions_LastGestureLabel",
+    "androidValue": "io.selendroid.testapp:id/last_gesture_text_view",
+    "androidType": "id",
+    "iosValue": "",
+    "iosType": ""
+  }
+]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
