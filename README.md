@@ -19,7 +19,7 @@ Go to home screen butonuna tıklanır ve anasayfaya dönüldüğü görülür. 
 3-) Touch Actions alanında tıklama kontrolü 
 * Anasayfada “Touch Actions” butonuna tıklanır.
 * Açılan sayfada tıklama aksiyonu gerçekleştirilir.
-* Last gesture başlığı altında “ON DOUBLE TAP EVENT” texti görülür.
+* Last gesture başlığı altında “SINGLE TAP CONFIRMED” texti görülür.
 
  4-) Uygulamanın kapatılması 
 * “EN Button” textli. butona tıklanır.
