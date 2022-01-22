@@ -237,6 +237,13 @@ public class StepImpl extends HookImpl {
         Assert.assertTrue("hafızadaki değer ile elementin değeri eşleşmiyor.", elementAttributeValue.equals(savedVariable));
     }
 
+    @Step({"<key> elementi <expectedText> değerini içeriyor mu kontrol et"})
+    public void checkElementContainsText(String key, String expectedText) {
+        logger.info("Expected: " + expectedText);
+        logger.info("Screen : " + findElementByKey(key).getText());
+        Assert.assertTrue("Expected text is not contained", findElementByKey(key).getText().contains(expectedText));
+    }
+
 
     @Step({"<key> elementinin <attribute> değeri <value> değerini içeriyor mu"})
     public void checkWithContainsElementAttributeValue(String key, String attribute, String value) {
@@ -248,12 +255,7 @@ public class StepImpl extends HookImpl {
         Assert.assertTrue(value + " değeri ile elementin değeri eşleşmiyor!", elementAttributeValue.contains(value));
     }
 
-    @Step({"Check if element <expectedText> contains text <expectedText>"})
-    public void checkElementContainsText(String key, String expectedText) {
-        logger.info("Expected: " + expectedText);
-        logger.info("Screen : " + findElementByKey(key).getText());
-        Assert.assertTrue("Expected text is not contained", findElementByKey(key).getText().contains(expectedText));
-    }
+
 
 
     @Step({"<attribute> değerinde <text> geçen elementi bul ve tıkla"})
